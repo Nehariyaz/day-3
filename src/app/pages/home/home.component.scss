@@ -1,0 +1,22 @@
+.carousel-item img {
+    width:100%;
+    object-fit:cover;
+    height:600px;
+}
+
+@media(max-width:768px) {S
+    .carousel-item img{
+        height:250px;
+    }
+    
+}
+.custom-btn {
+    background-color: rgb(222, 167, 26);
+    color: white;
+    border-color: rgb(222, 167, 26);
+    font-weight: 600;
+}
+
+.custom-btn hover {
+    background-color: rgb(136, 111, 47);
+}

@@ -1,0 +1,73 @@
+
+
+:host{
+    background-image:url("https://media.istockphoto.com/id/511119416/photo/indian-landmark-gadi-sagar-in-rajasthan.jpg?s=612x612&w=0&k=20&c=dO7TbXh3sd6_QmgcF_nYi6ynyIAvPI5STavwzCDyWTI=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:block;
+    height:100v;
+    justify-content: center;
+    display: flex;
+    padding: auto;
+  }
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #f0e8d1;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+    color: #0e4226;
+}
+form {
+    margin-top: 20px;
+}
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #1e320e;
+}
+input, textarea, select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #1a8b25;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #082104;
+}
+.contact-details {
+    margin-top: 30px;
+}
+.contact-details h3 {
+    color: #072606;
+}
+.contact-details p {
+    margin: 5px 0;
+    color: #1f380e;
+}
+.contact-details a {
+    color: #bc8f13;
+    text-decoration: none;
+}
+.contact-details a:hover {
+    text-decoration: underline;
+}
